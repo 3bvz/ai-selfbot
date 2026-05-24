@@ -1,3 +1,4 @@
+# so you can host the selfbot 24/7
 from flask import Flask
 from threading import Thread
 
