@@ -1,0 +1,4 @@
+Token = "user token"
+UserID = "userid"
+Channels = ["channel1", "channel2"]
+Trigger = "!"  
