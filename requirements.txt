@@ -1,0 +1,6 @@
+toml
+websockets
+aiohttp
+requests
+google.generativeai
+flask
